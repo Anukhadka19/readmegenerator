@@ -1,4 +1,4 @@
-# ss
+# README Generator
 
 
 ## Table of Contents
@@ -10,18 +10,18 @@
 * [Contribution](#contribution)
 * [Testing](#testing)
 
-## s
+## Created by anukhadka19
 ## Contact
-ss
+sample@gmail.com
 ## Description
-s
+This sample application generates a specific README file based on    user input.
 ### Instructions
-
+Simply clone the repository using the starter code on Github  on VSCode  and run the app.
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Usage
-s
+After successfully installing the application, run the code in the terminal by typing in 'node index.js' then answer the following prompts.
 ## Contribution
-s
+No contributions at the moment.
 ## Tests
-s
+Run the file in VSCode and open up the terminal to run 'node index.js
