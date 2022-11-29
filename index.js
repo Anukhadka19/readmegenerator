@@ -1,7 +1,3 @@
-
-// // Function call to initialize app
-// init();
-
 const inquirer = require('inquirer');
 const fs = require('fs');
 // Array of questions for user input
@@ -38,8 +34,7 @@ inquirer
             message: 'List the license(s) utilizied for this project.',
             choices: [
                 'MIT',
-                'Apache',
-
+                'Apache'
             ]
         },
         {
@@ -97,6 +92,7 @@ module.exports = generateMarkdown;
 
 // Create a function to write README file
     function writeToFile(data) {
-        fs.writeFileSync('README.md', data)
-    
+        fs.writeFileSync('README.md', data, err =>
+        err ? console.log(err) : console.log('Successfully generated!')
+     );     
 }
