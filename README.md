@@ -27,3 +27,8 @@ No contributions at the moment.
 Run the file in VS Code after cloning the starter code and change the location of the file to the root directory in your terminal. Then, run the code: 'node index.js' to be directed to the prompts. After answering allthe questions, a README file will be generated.
 ## Application Use
 https://drive.google.com/file/d/18e1iq6-LTryTIS6ymquc1lOQMh_C09Eq/view
+
+Screenshot(s): 
+
+![Screen![Screen Shot 2022-12-09 at 7 21 45 PM](https://user-images.githubusercontent.com/113952075/206818102-ef96ba4d-7387-48b2-9813-0d261bbffb60.png)
+ Shot 2022-12-09 at 7 22 48 PM](https://user-images.githubusercontent.com/113952075/206818095-33f61b29-b50e-4de1-90fe-63717770b038.png)
