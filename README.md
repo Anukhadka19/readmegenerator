@@ -25,3 +25,5 @@ After successfully installing the file, run the code in your VS Code terminal by
 No contributions at the moment.
 ## Tests
 Run the file in VS Code after cloning the starter code and change the location of the file to the root directory in your terminal. Then, run the code: 'node index.js' to be directed to the prompts. After answering allthe questions, a README file will be generated.
+## Application Use
+https://drive.google.com/file/d/18e1iq6-LTryTIS6ymquc1lOQMh_C09Eq/view
